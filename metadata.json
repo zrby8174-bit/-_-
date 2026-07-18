@@ -1,0 +1,6 @@
+{
+  "name": "منصة الاختبارات الإلكترونية - جامعة صنعاء",
+  "description": "منصة اختبارات إلكترونية متكاملة للجنة العلمية المركزية بجامعة صنعاء، تدعم التشغيل غير المباشر والمستقل وتصدير الاختبارات كملفات مستقلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
